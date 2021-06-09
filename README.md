@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moutga or just "Mute"
-- 👀 I’m interested in WordPress
-- 🌱 I’m currently learning javascript and friends
+- 👀 I’m interested in WordPress, javascript, HYML, CSS and Vue.js
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on eating
 - 📫 How to reach me: dm :)
 
